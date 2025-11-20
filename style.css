@@ -519,7 +519,7 @@ font-size: 50px;
   background-position: center;
   position: static;
   background-image: url('images/paperbg.jpeg');
-  margin-top: -39px;
+  margin-top: -55px;
   
 
 }
@@ -528,7 +528,7 @@ font-size: 50px;
 
 #ab-container {
   width:100%;  
-  margin-top: 220px; 
+  margin-top: 172px; 
   height: 1000px; 
   position: static;
   border-bottom: 4px solid lightgrey;
